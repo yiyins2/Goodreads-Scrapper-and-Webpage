@@ -1,0 +1,12 @@
+{
+  "books": [],
+  "authors": [
+    {
+      "author_url": "https://www.goodreads.com/author/show/1003655.K_W_Jeter",
+      "rating": 3.57,
+      "rating_count": 27088,
+      "review_count": 1734,
+      "image_url": "https://images.gr-assets.com/authors/1363305061p5/1003655.jpg",
+    }
+  ]
+}
